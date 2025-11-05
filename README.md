@@ -1,7 +1,6 @@
 # Mini Authentication System (JWT-Based)
 
-**Project**: Mini Authentication System — Option 4 (Security Focus)  
-**For**: Slanup Full-Stack Development Internship (Submission)  
+**Project**: Mini Authentication System (Security Focus)  
 **Author**: Kaynat Khan  
 
 ---
